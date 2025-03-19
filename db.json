@@ -1,50 +1,52 @@
-[
-  {
-    "price": 20000,
-    "name": "Product 5",
-    "rating": 3.5,
-    "urlImage": [
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
-    ],
-    "id": "2VAsOrxQvS5qVkrq62Oz"
-  },
-  {
-    "price": 100000,
-    "name": "Product 21",
-    "rating": 3.5,
-    "urlImage": [
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
-    ],
-    "id": "46ZLK0PRUH4e5r2bcPgu"
-  },
-  {
-    "price": 140000,
-    "name": "Product 29",
-    "rating": 3.5,
-    "urlImage": [
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
-    ],
-    "id": "4TImUC3ahiQvdCVhULoQ"
-  },
-  {
-    "price": 5000,
-    "name": "Product 2",
-    "rating": 3.5,
-    "urlImage": [
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
-      "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
-    ],
-    "id": "55O5d5YKVTIyx5Lez7Rz"
-  }
-]
+{
+  "products": [
+    {
+      "price": 20000,
+      "name": "Product 5",
+      "rating": 3.5,
+      "urlImage": [
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
+      ],
+      "id": "2VAsOrxQvS5qVkrq62Oz"
+    },
+    {
+      "price": 100000,
+      "name": "Product 21",
+      "rating": 3.5,
+      "urlImage": [
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
+      ],
+      "id": "46ZLK0PRUH4e5r2bcPgu"
+    },
+    {
+      "price": 140000,
+      "name": "Product 29",
+      "rating": 3.5,
+      "urlImage": [
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
+      ],
+      "id": "4TImUC3ahiQvdCVhULoQ"
+    },
+    {
+      "price": 5000,
+      "name": "Product 2",
+      "rating": 3.5,
+      "urlImage": [
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/Surface-Laptop-7-Platinum-13.8-inch-chinh-hang.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/gia-ban-Surface-Laptop-7-Platinum-13.8-inch.jpg",
+        "https://surfaceviet.vn/wp-content/uploads/2024/05/mua-Surface-Laptop-7-Platinum-13.8-inch.jpg"
+      ],
+      "id": "55O5d5YKVTIyx5Lez7Rz"
+    }
+  ]
+}

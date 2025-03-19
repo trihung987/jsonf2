@@ -1,4 +1,4 @@
-{
+[{
     "price": 20000,
     "name": "Product 5",
     "rating": 3.5,
@@ -49,4 +49,4 @@
     ],
     "id": "55O5d5YKVTIyx5Lez7Rz",
     "__collections__": {}
-  }
+  }]
